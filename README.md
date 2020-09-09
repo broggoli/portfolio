@@ -1,2 +1,2 @@
-# potfolio
+# portfolio
 A customizable portfolio website. 
